@@ -1,4 +1,4 @@
 # StarWars
 Easy
 
-npx codeceptjs run --reporter mochawesome
+```npx codeceptjs run --reporter mochawesome```
