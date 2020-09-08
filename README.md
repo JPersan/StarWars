@@ -1,4 +1,4 @@
 # StarWars
-**Command Line Execution**
+**Execution**
 
 ```npx codeceptjs run --reporter mochawesome```
